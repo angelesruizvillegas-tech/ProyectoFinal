@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "gestion_escolar_api"
+		},
+		{
+			"path": "gestion-escolar-webapp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "gestion-escolar-webapp"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
